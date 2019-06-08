@@ -1,3 +1,13 @@
+## Instructions
+
+- [] Work with the same partner. You were pair programming with.
+- [] create a new repo: " Isomorphic-Fetch "
+- [] clone, npm init
+- [] Follow the instruction for installing isomorphic-fetch
+- [] Use the video below and documentation for isomorphic-fetch
+
+
+### About React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
