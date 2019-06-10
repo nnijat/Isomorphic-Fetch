@@ -1,10 +1,10 @@
 ## Instructions
 
-- [ ] Work with the same partner. You were pair programming with.
-- [ ] create a new repo: " Isomorphic-Fetch "
-- [ ] clone, npm init
-- [ ] Follow the instruction for installing isomorphic-fetch
-- [ ] Use the video below and documentation for isomorphic-fetch
+- [x] Work with the same partner. You were pair programming with.
+- [x] create a new repo: " Isomorphic-Fetch "
+- [x] clone, npm init
+- [x] Follow the instruction for installing isomorphic-fetch
+- [x] Use the video below and documentation for isomorphic-fetch
 
 
 ### About React
